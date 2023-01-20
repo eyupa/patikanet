@@ -475,3 +475,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+TypeConvertions/TypeConvertions/bin
+TypeConvertions/TypeConvertions/obj
