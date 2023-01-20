@@ -1,0 +1,15 @@
+C:\Users\eyup_\Desktop\patikanet\TypeConvertions\TypeConvertions\obj\Debug\net7.0\TypeConvertions.csproj.AssemblyReference.cache
+C:\Users\eyup_\Desktop\patikanet\TypeConvertions\TypeConvertions\obj\Debug\net7.0\TypeConvertions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyup_\Desktop\patikanet\TypeConvertions\TypeConvertions\obj\Debug\net7.0\TypeConvertions.AssemblyInfoInputs.cache
+C:\Users\eyup_\Desktop\patikanet\TypeConvertions\TypeConvertions\obj\Debug\net7.0\TypeConvertions.AssemblyInfo.cs
+C:\Users\eyup_\Desktop\patikanet\TypeConvertions\TypeConvertions\obj\Debug\net7.0\TypeConvertions.csproj.CoreCompileInputs.cache
+C:\Users\eyup_\Desktop\patikanet\TypeConvertions\TypeConvertions\bin\Debug\net7.0\TypeConvertions.exe
+C:\Users\eyup_\Desktop\patikanet\TypeConvertions\TypeConvertions\bin\Debug\net7.0\TypeConvertions.deps.json
+C:\Users\eyup_\Desktop\patikanet\TypeConvertions\TypeConvertions\bin\Debug\net7.0\TypeConvertions.runtimeconfig.json
+C:\Users\eyup_\Desktop\patikanet\TypeConvertions\TypeConvertions\bin\Debug\net7.0\TypeConvertions.dll
+C:\Users\eyup_\Desktop\patikanet\TypeConvertions\TypeConvertions\bin\Debug\net7.0\TypeConvertions.pdb
+C:\Users\eyup_\Desktop\patikanet\TypeConvertions\TypeConvertions\obj\Debug\net7.0\TypeConvertions.dll
+C:\Users\eyup_\Desktop\patikanet\TypeConvertions\TypeConvertions\obj\Debug\net7.0\refint\TypeConvertions.dll
+C:\Users\eyup_\Desktop\patikanet\TypeConvertions\TypeConvertions\obj\Debug\net7.0\TypeConvertions.pdb
+C:\Users\eyup_\Desktop\patikanet\TypeConvertions\TypeConvertions\obj\Debug\net7.0\TypeConvertions.genruntimeconfig.cache
+C:\Users\eyup_\Desktop\patikanet\TypeConvertions\TypeConvertions\obj\Debug\net7.0\ref\TypeConvertions.dll
