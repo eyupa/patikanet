@@ -74,6 +74,9 @@ class Program
         System.Console.WriteLine(degisken.Substring(5,10));
 
 
+      
+
+
 
 
 
