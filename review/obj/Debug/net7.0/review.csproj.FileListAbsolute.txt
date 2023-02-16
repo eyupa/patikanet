@@ -1,0 +1,15 @@
+C:\Users\eyup_\Desktop\review\bin\Debug\net7.0\review.exe
+C:\Users\eyup_\Desktop\review\bin\Debug\net7.0\review.deps.json
+C:\Users\eyup_\Desktop\review\bin\Debug\net7.0\review.runtimeconfig.json
+C:\Users\eyup_\Desktop\review\bin\Debug\net7.0\review.dll
+C:\Users\eyup_\Desktop\review\bin\Debug\net7.0\review.pdb
+C:\Users\eyup_\Desktop\review\obj\Debug\net7.0\review.csproj.AssemblyReference.cache
+C:\Users\eyup_\Desktop\review\obj\Debug\net7.0\review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyup_\Desktop\review\obj\Debug\net7.0\review.AssemblyInfoInputs.cache
+C:\Users\eyup_\Desktop\review\obj\Debug\net7.0\review.AssemblyInfo.cs
+C:\Users\eyup_\Desktop\review\obj\Debug\net7.0\review.csproj.CoreCompileInputs.cache
+C:\Users\eyup_\Desktop\review\obj\Debug\net7.0\review.dll
+C:\Users\eyup_\Desktop\review\obj\Debug\net7.0\refint\review.dll
+C:\Users\eyup_\Desktop\review\obj\Debug\net7.0\review.pdb
+C:\Users\eyup_\Desktop\review\obj\Debug\net7.0\review.genruntimeconfig.cache
+C:\Users\eyup_\Desktop\review\obj\Debug\net7.0\ref\review.dll

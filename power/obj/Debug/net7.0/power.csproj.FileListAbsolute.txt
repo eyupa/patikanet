@@ -1,0 +1,15 @@
+C:\Users\eyup_\Desktop\power\bin\Debug\net7.0\power.exe
+C:\Users\eyup_\Desktop\power\bin\Debug\net7.0\power.deps.json
+C:\Users\eyup_\Desktop\power\bin\Debug\net7.0\power.runtimeconfig.json
+C:\Users\eyup_\Desktop\power\bin\Debug\net7.0\power.dll
+C:\Users\eyup_\Desktop\power\bin\Debug\net7.0\power.pdb
+C:\Users\eyup_\Desktop\power\obj\Debug\net7.0\power.csproj.AssemblyReference.cache
+C:\Users\eyup_\Desktop\power\obj\Debug\net7.0\power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyup_\Desktop\power\obj\Debug\net7.0\power.AssemblyInfoInputs.cache
+C:\Users\eyup_\Desktop\power\obj\Debug\net7.0\power.AssemblyInfo.cs
+C:\Users\eyup_\Desktop\power\obj\Debug\net7.0\power.csproj.CoreCompileInputs.cache
+C:\Users\eyup_\Desktop\power\obj\Debug\net7.0\power.dll
+C:\Users\eyup_\Desktop\power\obj\Debug\net7.0\refint\power.dll
+C:\Users\eyup_\Desktop\power\obj\Debug\net7.0\power.pdb
+C:\Users\eyup_\Desktop\power\obj\Debug\net7.0\power.genruntimeconfig.cache
+C:\Users\eyup_\Desktop\power\obj\Debug\net7.0\ref\power.dll

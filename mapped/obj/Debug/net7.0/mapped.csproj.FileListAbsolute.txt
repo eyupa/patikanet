@@ -1,0 +1,15 @@
+C:\Users\eyup_\Desktop\mapped\obj\Debug\net7.0\mapped.csproj.AssemblyReference.cache
+C:\Users\eyup_\Desktop\mapped\obj\Debug\net7.0\mapped.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyup_\Desktop\mapped\obj\Debug\net7.0\mapped.AssemblyInfoInputs.cache
+C:\Users\eyup_\Desktop\mapped\obj\Debug\net7.0\mapped.AssemblyInfo.cs
+C:\Users\eyup_\Desktop\mapped\obj\Debug\net7.0\mapped.csproj.CoreCompileInputs.cache
+C:\Users\eyup_\Desktop\mapped\bin\Debug\net7.0\mapped.exe
+C:\Users\eyup_\Desktop\mapped\bin\Debug\net7.0\mapped.deps.json
+C:\Users\eyup_\Desktop\mapped\bin\Debug\net7.0\mapped.runtimeconfig.json
+C:\Users\eyup_\Desktop\mapped\bin\Debug\net7.0\mapped.dll
+C:\Users\eyup_\Desktop\mapped\bin\Debug\net7.0\mapped.pdb
+C:\Users\eyup_\Desktop\mapped\obj\Debug\net7.0\mapped.dll
+C:\Users\eyup_\Desktop\mapped\obj\Debug\net7.0\refint\mapped.dll
+C:\Users\eyup_\Desktop\mapped\obj\Debug\net7.0\mapped.pdb
+C:\Users\eyup_\Desktop\mapped\obj\Debug\net7.0\mapped.genruntimeconfig.cache
+C:\Users\eyup_\Desktop\mapped\obj\Debug\net7.0\ref\mapped.dll

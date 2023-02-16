@@ -1,0 +1,15 @@
+C:\Users\eyup_\Desktop\tasks\bin\Debug\net7.0\tasks.exe
+C:\Users\eyup_\Desktop\tasks\bin\Debug\net7.0\tasks.deps.json
+C:\Users\eyup_\Desktop\tasks\bin\Debug\net7.0\tasks.runtimeconfig.json
+C:\Users\eyup_\Desktop\tasks\bin\Debug\net7.0\tasks.dll
+C:\Users\eyup_\Desktop\tasks\bin\Debug\net7.0\tasks.pdb
+C:\Users\eyup_\Desktop\tasks\obj\Debug\net7.0\tasks.csproj.AssemblyReference.cache
+C:\Users\eyup_\Desktop\tasks\obj\Debug\net7.0\tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyup_\Desktop\tasks\obj\Debug\net7.0\tasks.AssemblyInfoInputs.cache
+C:\Users\eyup_\Desktop\tasks\obj\Debug\net7.0\tasks.AssemblyInfo.cs
+C:\Users\eyup_\Desktop\tasks\obj\Debug\net7.0\tasks.csproj.CoreCompileInputs.cache
+C:\Users\eyup_\Desktop\tasks\obj\Debug\net7.0\tasks.dll
+C:\Users\eyup_\Desktop\tasks\obj\Debug\net7.0\refint\tasks.dll
+C:\Users\eyup_\Desktop\tasks\obj\Debug\net7.0\tasks.pdb
+C:\Users\eyup_\Desktop\tasks\obj\Debug\net7.0\tasks.genruntimeconfig.cache
+C:\Users\eyup_\Desktop\tasks\obj\Debug\net7.0\ref\tasks.dll
