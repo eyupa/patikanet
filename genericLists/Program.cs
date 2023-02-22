@@ -1,4 +1,6 @@
-﻿namespace genericLists;
+﻿using System.Collections;
+
+namespace genericLists;
 class Program
 {
     static void Main(string[] args)
@@ -172,20 +174,105 @@ class Program
 
         yeniListe.Clear();
 
+        //hackerrank ödev
+
+        static void PrintArray<T>(T[] items)
+        {
+
+            foreach (var item in items)
+            {
+                Console.WriteLine(item);
+            }
+
+
+
+
+        }
+        //ArrayList
+        System.Console.WriteLine("ArrayList\n-------");
+
+
+        ArrayList liste = new ArrayList();
+        // liste.Add(10);
+        // liste.Add("Ahmet");
+        // liste.Add(10.5);
+        // liste.Add(true);
+        // liste.Add('A');
+        // liste.Add("10");
+
+        //içerisindeki elemanlara erişim
+
+        // System.Console.WriteLine(liste[0]);
+        // System.Console.WriteLine(liste[1]);
+        foreach (var item in liste)
+        {
+            System.Console.WriteLine(item);
+        }
+
+        //Add range
+
+        System.Console.WriteLine("\nAddRange\n--------------------------\n ");
+        //    string[] renkler = { "Kırmızı", "Sarı", "Yeşil" };
+        List<int> sayilar = new List<int>() { 5, 4, 3, 2, 1 };
+        //    liste.AddRange(renkler);
+        liste.AddRange(sayilar);
+        foreach (var item in liste)
+        {
+            System.Console.WriteLine(item);
+        }
+
+
+        //sort
+        System.Console.WriteLine("\nSort\n--------------------------\n ");
+        liste.Sort();
+        foreach (var item in liste)
+        {
+            System.Console.WriteLine(item);
+        }
+
+        //binary search
+        System.Console.WriteLine("\nBinary Search\n--------------------------\n ");
+        System.Console.WriteLine(liste.BinarySearch(5));
+
+
+
+        //reverse
+        System.Console.WriteLine("\nReverse\n--------------------------\n ");
+        liste.Reverse();
+        foreach (var item in liste)
+        {
+            System.Console.WriteLine(item);
+        }
+
+        //clear
+
+        liste.Clear();
+        foreach (var item in liste)
+
+        {
+            System.Console.WriteLine(item);
+        }
+
+
+
+
+
+
 
 
 
     }
-}
 
 
-public class Users
-{
-    private string name;
-    private string surname;
-    private int age;
-    public string Name { get => name; set => name = value; }
-    public string Surname { get => surname; set => surname = value; }
-    public int Age { get => age; set => age = value; }
+    public class Users
+    {
+        private string name;
+        private string surname;
+        private int age;
+        public string Name { get => name; set => name = value; }
+        public string Surname { get => surname; set => surname = value; }
+        public int Age { get => age; set => age = value; }
+    }
+
 }
 

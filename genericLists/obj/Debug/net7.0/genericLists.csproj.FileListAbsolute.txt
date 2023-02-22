@@ -1,0 +1,15 @@
+C:\Users\eyup_\Desktop\patikanet\genericLists\bin\Debug\net7.0\genericLists.exe
+C:\Users\eyup_\Desktop\patikanet\genericLists\bin\Debug\net7.0\genericLists.deps.json
+C:\Users\eyup_\Desktop\patikanet\genericLists\bin\Debug\net7.0\genericLists.runtimeconfig.json
+C:\Users\eyup_\Desktop\patikanet\genericLists\bin\Debug\net7.0\genericLists.dll
+C:\Users\eyup_\Desktop\patikanet\genericLists\bin\Debug\net7.0\genericLists.pdb
+C:\Users\eyup_\Desktop\patikanet\genericLists\obj\Debug\net7.0\genericLists.csproj.AssemblyReference.cache
+C:\Users\eyup_\Desktop\patikanet\genericLists\obj\Debug\net7.0\genericLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyup_\Desktop\patikanet\genericLists\obj\Debug\net7.0\genericLists.AssemblyInfoInputs.cache
+C:\Users\eyup_\Desktop\patikanet\genericLists\obj\Debug\net7.0\genericLists.AssemblyInfo.cs
+C:\Users\eyup_\Desktop\patikanet\genericLists\obj\Debug\net7.0\genericLists.csproj.CoreCompileInputs.cache
+C:\Users\eyup_\Desktop\patikanet\genericLists\obj\Debug\net7.0\genericLists.dll
+C:\Users\eyup_\Desktop\patikanet\genericLists\obj\Debug\net7.0\refint\genericLists.dll
+C:\Users\eyup_\Desktop\patikanet\genericLists\obj\Debug\net7.0\genericLists.pdb
+C:\Users\eyup_\Desktop\patikanet\genericLists\obj\Debug\net7.0\genericLists.genruntimeconfig.cache
+C:\Users\eyup_\Desktop\patikanet\genericLists\obj\Debug\net7.0\ref\genericLists.dll
