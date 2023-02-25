@@ -24,7 +24,7 @@ class Program
         {
             System.Console.WriteLine("Hava normal");
         }
-      
+
     }
 }
 enum Gunler
@@ -52,7 +52,10 @@ enum Gunler2
 enum HavaDurumu
 {
     Soguk=5,
+    
+    Soguk=5,
     Normal=20,
+    Soguk=5,
     Sicak=25,
     CokSicak=30
 }
